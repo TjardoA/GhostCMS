@@ -121,9 +121,6 @@ production stylesheet in assets/built/screen.css
   min-height: 100vh;
   background-color: var(--ghost-accent-color);
   color: #fff;
-  background-position: 50% 100%; /* Startpositie voor achtergrond */
-  height: 100vh; /* Startpositie voor hoogte */
-  font-size: calc(4vw + 1em); /* Startgrootte voor font */
 }
 
 .site-header-content.left-aligned {
